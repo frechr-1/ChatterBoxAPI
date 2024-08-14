@@ -1,0 +1,6 @@
+@ChatterBox_HostAddress = http://localhost:5131
+
+GET {{ChatterBox_HostAddress}}/chatterbox/
+Accept: application/json
+
+###
